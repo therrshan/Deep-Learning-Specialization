@@ -13,13 +13,14 @@
 * There are many different optimization algorithms you could be using to get you to the minimal cost. Just like there are many different paths down a hill to the lowest point.
 * By completing this assignment you will:
 
-- Understand the intuition between Adam and RMS prop
+#### Understand the intuition between Adam and RMS prop
+
 <img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%202/assignment%204/images/opt1.gif" widht ="400" height = "400"><img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%202/assignment%204/images/opt2.gif" widht ="400" height = "400">
 
-- Recognize the importance of mini-batch gradient descent
+#### Recognize the importance of mini-batch gradient descent
 <img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%202/assignment%204/images/kiank_minibatch.png">
 
-- Learn the effects of momentum on the overall performance of your model
+#### Learn the effects of momentum on the overall performance of your model
 <img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%202/assignment%204/images/opt_momentum.png">
 
 ## Assignment 5 : 
