@@ -47,5 +47,5 @@ The gifs show the good and bad behaviour of the gradient descent curves fit to t
 - Recognize that it is always easier to build your helper functions before attempting to build a neural network from scratch.
 
 
-<img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%201/assignment%204/images/2layerNN_kiank.png" width="400" height ="400">
+<img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%201/assignment%204/images/2layerNN_kiank.png">
 
