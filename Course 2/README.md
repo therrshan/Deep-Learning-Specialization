@@ -15,7 +15,7 @@
 
 #### Understand the intuition between Adam and RMS prop
 
-<img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%202/assignment%204/images/opt1.gif" widht ="400" height = "400"><img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%202/assignment%204/images/opt2.gif" widht ="400" height = "400">
+<img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%202/assignment%204/images/opt1.gif" widht ="300" height = "300"><img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%202/assignment%204/images/opt2.gif" widht ="300" height = "300">
 
 #### Recognize the importance of mini-batch gradient descent
 <img src = "https://github.com/therrshan/Deep-Learning-Specialization/blob/master/Course%202/assignment%204/images/kiank_minibatch.png">
